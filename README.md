@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshal-thorat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-thorat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshal-thorat-09b326217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-thorat-09b326217" height="30" width="40" /></a>
 <a href="https://hashnode.com/@harsherror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harsherror" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thoratharshal19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thoratharshal19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshalt4yer/contributions/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshalt4yer/contributions/" height="30" width="40" /></a>
