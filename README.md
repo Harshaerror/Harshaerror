@@ -68,6 +68,11 @@ I'm probably refactoring my to-do list while you read this 😄
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshaerror&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshaerror&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 🛠️ Languages & Tools
 
