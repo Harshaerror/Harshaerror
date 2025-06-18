@@ -94,3 +94,13 @@ I'm probably refactoring my to-do list while you read this 😄
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshaerror&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
+### 📈 Most Viewed Articles
+
+Here are a few of my blog posts that developers found most helpful:
+
+- 🔹 [Mastering RESTful APIs with Spring Boot](https://www.harshalthorat.blog/restful-apis-spring-boot) – *3.5k+ views*  
+- 🔹 [Cloud Deployment 101: Azure CLI + GitHub Actions](https://www.harshalthorat.blog/cloud-deployment-azure) – *2.9k+ views*  
+- 🔹 [Monolith to Microservices: A Dev Journey](https://www.harshalthorat.blog/microservices-architecture) – *2.3k+ views*
+
+📝 [See all my blogs](https://www.harshalthorat.blog/)
+
