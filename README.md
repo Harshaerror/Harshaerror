@@ -31,7 +31,7 @@ I thrive in collaborative environments, love solving real-world problems with ef
 
 ### 🧠 I Write Stuff
 
-📚 [Check out my tech blog](https://www.harshalthorat.blog/) – where I share backend tips, dev journeys, and engineering insights.
+📚 [Check out my tech blog](https://hashnode.com/dashboards) – where I share backend tips, dev journeys, and engineering insights.
 
 ---
 
@@ -48,7 +48,7 @@ I thrive in collaborative environments, love solving real-world problems with ef
 
 📩 harshalthorat91@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/harshal-thorat-09b326217)  
-🧠 [Hashnode](https://hashnode.com/@harsherror)
+🧠 [Hashnode](https://hashnode.com/dashboards)
 
 ---
 
